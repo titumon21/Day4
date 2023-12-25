@@ -1,0 +1,36 @@
+.bg{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)), url(../../../assets/images/g1.png);
+	height: 150vh;
+	background-size: cover;
+	background-position: center;
+            background-repeat: no-repeat;
+  	background-attachment: fixed;
+}
+
+
+.log{
+    margin-right:6%;
+   size: 50%;
+}
+
+
+.w-100 {
+    width: 100% !important;
+    height: 75vh;
+  }
+  h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 60PX;
+  }
+  .text1{
+    font-size: large;
+    text-align: center;
+    color: white;
+  }
+  h2{
+    color: #daebb4;
+    text-align: center;
+  }
